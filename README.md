@@ -6,5 +6,5 @@
 1. 将 `git-aliases` 文件复制到用户目录下（如 `~/.gitconfig`）。
 2. 在终端中运行以下命令以应用别名：
 ```bash
-git config --global include.path ~/.git-aliases
+git config --global include.path ~/git_alias.config
 ```
